@@ -10,3 +10,6 @@
 [submodule "django/bzkRestApis/Abgular10Crud6"]
 	path = django/bzkRestApis/Abgular10Crud6
 	url = https://github.com/Hadassa-Kurtzer/crud.git
+[submodule "asp.net/angular-asp.net"]
+	path = asp.net/angular-asp.net
+	url = https://github.com/Hadassa-Kurtzer/api.git
