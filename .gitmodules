@@ -1,3 +1,6 @@
 [submodule "AngularProject"]
 	path = AngularProject
 	url = https://github.com/Hadassa-Kurtzer/AngularProject.git
+[submodule "my-laravel2/resources/frontend/angular2"]
+	path = my-laravel2/resources/frontend/angular2
+	url = https://github.com/Hadassa-Kurtzer/angular-laravel.git
