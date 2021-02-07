@@ -4,3 +4,9 @@
 [submodule "my-laravel2/resources/frontend/angular2"]
 	path = my-laravel2/resources/frontend/angular2
 	url = https://github.com/Hadassa-Kurtzer/angular-laravel.git
+[submodule "django/bzkRestApis/angular10Crud2"]
+	path = django/bzkRestApis/angular10Crud2
+	url = https://github.com/Hadassa-Kurtzer/angular-crud.git
+[submodule "django/bzkRestApis/Abgular10Crud6"]
+	path = django/bzkRestApis/Abgular10Crud6
+	url = https://github.com/Hadassa-Kurtzer/crud.git
